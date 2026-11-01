@@ -26,6 +26,7 @@
 - **Partícula を vs と**: dijo `バナナと食べました` (と = «con»); lo correcto es `バナナを食べました` (を marca lo que se come/bebe).
 - **ちょっと vs ちょうど**: dijo `ちょっと8時` (= «un poco»); para «justo/en punto» es `ちょうど8時`.
 - **でも (pero) mal usado**: usó `でも` sin contraste; para sumar acciones: `それから` / `〜て、〜`. Para «solo»: `だけ`.
+- **〜てみる**: dijo `飲んでみました` (= «probé a tomar»); para una acción normal alcanza con `飲みました`. Usar `〜てみる` solo si es probar algo nuevo.
 - Tendencia: `今日の朝` → más natural `今朝（けさ）`.
 
 ## Vocabulario nuevo
@@ -36,6 +37,8 @@
 | ちょうど | ちょうど | justo, en punto | 2026-11-01 |
 | だけ | だけ | solo, nada más | 2026-11-01 |
 | それから | それから | y después | 2026-11-01 |
+| もう一度 | もういちど | una vez más | 2026-11-01 |
+| 〜てみる | 〜てみる | probar a hacer algo | 2026-11-01 |
 
 ## Temas conversados
 
@@ -43,9 +46,9 @@
 
 ## Para la próxima vez
 
-- Repasar を (objeto) y ちょうど vs ちょっと. Los ejercicios del bloque 1 quedaron pendientes de respuesta.
-- Seguir con rutina diaria (almuerzo, trabajo/estudio) para calibrar el nivel.
+- Repasar を (objeto) y ちょうど vs ちょっと. Bloque 1 resuelto (を y ちょうど bien). Reforzar frases completas con verbo en 〜て.
+- Bloque 2: planes del día (trabajo/estudio). Pendiente de respuesta.
 
 ## Historial de sesiones
 
-- 2026-11-01 — Se crea el archivo. Bloque 1: rutina de la mañana. Frases correctas: 8時に起きました、コーヒーを飲みました.
+- 2026-11-01 — Se crea el archivo. Bloque 1: rutina de la mañana. Frases correctas: 8時に起きました、コーヒーを飲みました. Ejercicios: を y ちょうど correctos; la traducción la rehízo bien tras autocorregirse (buena señal: se corrige solo).
