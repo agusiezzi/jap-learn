@@ -59,11 +59,11 @@
 ## Para la próxima vez
 
 - Repasar を (objeto) y ちょうど vs ちょっと. Bloque 1 resuelto (を y ちょうど bien). Reforzar frases completas con verbo en 〜て.
-- Bloque 2: ejercicios 1-3 correctos (と, 勉強しなければなりません, 夜に). Falta el 4: スーパーに行かなければなりません (traducción sin responder).
+- Bloque 2: ejercicios 1-4 todos correctos (と, 勉強しなければなりません, 夜に, スーパーに行かなければなりません).
 - Bloque 3: el tenis (hobbies/deportes). Pendiente de respuesta.
 
 ## Historial de sesiones
 
 - 2026-11-01 — Se crea el archivo. Bloque 1: rutina de la mañana. Frases correctas: 8時に起きました、コーヒーを飲みました. Ejercicios: を y ちょうど correctos; la traducción la rehízo bien tras autocorregirse (buena señal: se corrige solo).
 - 2026-11-05 — Bloque 2: planes del día. Bien: formas て, 会社に行く. A reforzar: なければならない, と vs を, に con momentos del día.
-- 2026-11-05 — Ejercicios del bloque 2 resueltos (3/3 contestados bien, el 4 quedó sin responder). Arranca bloque 3: tenis.
+- 2026-11-05 — Ejercicios del bloque 2 resueltos (4/4 bien). Arranca bloque 3: tenis.
