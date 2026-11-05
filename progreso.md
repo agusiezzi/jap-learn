@@ -18,6 +18,7 @@
 
 ## Nivel actual
 
+- Maneja bien la forma て para encadenar acciones (働いて、帰って、食べて).
 - Intermedio-bajo (autoevaluado, sin test formal; aprox. N4–N3 bajo).
 - Se ajustará con la práctica.
 
@@ -27,6 +28,10 @@
 - **ちょっと vs ちょうど**: dijo `ちょっと8時` (= «un poco»); para «justo/en punto» es `ちょうど8時`.
 - **でも (pero) mal usado**: usó `でも` sin contraste; para sumar acciones: `それから` / `〜て、〜`. Para «solo»: `だけ`.
 - **〜てみる**: dijo `飲んでみました` (= «probé a tomar»); para una acción normal alcanza con `飲みました`. Usar `〜てみる` solo si es probar algo nuevo.
+- **Potencial vs obligación**: dijo `行けなければなります`; «tener que ir» es `行かなければなりません` (forma ない → なければ + なりません). `行ける` = «poder ir».
+- **と (con) vs を**: dijo `チームを話して`; hablar con alguien es `チームと話して`.
+- **Tiempo con に**: dijo `午後で帰って`; para momentos del día es `午後に帰って`.
+- **〜とか y 〜ので colgantes**: usó `〜とか` para encadenar acciones (alcanza con `〜て`; `〜とか` es «cosas como…») y cerró con `ありますので` sin oración principal. Mejor `あるので、〜` o terminar en `あります`.
 - Tendencia: `今日の朝` → más natural `今朝（けさ）`.
 
 ## Vocabulario nuevo
@@ -39,16 +44,23 @@
 | それから | それから | y después | 2026-11-01 |
 | もう一度 | もういちど | una vez más | 2026-11-01 |
 | 〜てみる | 〜てみる | probar a hacer algo | 2026-11-01 |
+| 〜なければなりません | 〜なければなりません | tener que… | 2026-11-05 |
+| 働く | はたらく | trabajar | 2026-11-05 |
+| 午後 | ごご | tarde (PM) | 2026-11-05 |
+| 特に | とくに | especialmente | 2026-11-05 |
+| 〜ので | 〜ので | porque / ya que | 2026-11-05 |
 
 ## Temas conversados
 
 - Rutina de la mañana: hora de levantarse y desayuno (2026-11-01).
+- Planes del día: oficina, volver a la tarde, clase de tenis (2026-11-05).
 
 ## Para la próxima vez
 
 - Repasar を (objeto) y ちょうど vs ちょっと. Bloque 1 resuelto (を y ちょうど bien). Reforzar frases completas con verbo en 〜て.
-- Bloque 2: planes del día (trabajo/estudio). Pendiente de respuesta.
+- Bloque 2: ejercicios pendientes (と, 〜なければなりません, に). Siguiente tema: el tenis (hobbies/deportes) o la cena.
 
 ## Historial de sesiones
 
 - 2026-11-01 — Se crea el archivo. Bloque 1: rutina de la mañana. Frases correctas: 8時に起きました、コーヒーを飲みました. Ejercicios: を y ちょうど correctos; la traducción la rehízo bien tras autocorregirse (buena señal: se corrige solo).
+- 2026-11-05 — Bloque 2: planes del día. Bien: formas て, 会社に行く. A reforzar: なければならない, と vs を, に con momentos del día.
