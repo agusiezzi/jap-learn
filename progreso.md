@@ -37,6 +37,10 @@
 - **それも (también eso) mal usado**: dijo `それも週に2回ぐらいします`; para sumar info: `そして` / `今は`.
 - **Años y meses**: dijo `2018に1月と2月で`; falta `年` (`2018年`), los meses llevan `に`, y para un período es `1月から2月まで`.
 - **旅行**: dijo `日本の旅行をしました`; natural: `日本を旅行しました` / `日本旅行をしました` / `日本へ旅行に行きました` (sin の).
+- **Lugar de la acción con で** (error repetido): dijo `会社に働きます` dos veces; correcto `会社で働きます`. に = destino/existencia (`会社に行きます`).
+- **Falta 年 en los años** (error repetido): `2018に`, `2022日本へ`; siempre `2022年に`.
+- **Orden de horas**: escribió `5時から9時まで` queriendo decir 9 a 5; en japonés se dice en el orden real: `9時から5時まで`.
+- **Redundancia**: `日本へ、日本旅行をしました`; basta `日本へ旅行に行きました` o `日本旅行をしました`.
 - Tendencia: `今日の朝` → más natural `今朝（けさ）`.
 
 ## Vocabulario nuevo
@@ -67,13 +71,13 @@
 - Rutina de la mañana: hora de levantarse y desayuno (2026-11-01).
 - Planes del día: oficina, volver a la tarde, clase de tenis (2026-11-05).
 - Tenis: empezó hace 3 años, juega ~2 veces por semana (2026-11-05).
-- Viaje a Japón: enero–febrero de 2018 (2026-11-05).
+- Viaje a Japón: enero–febrero de 2018 y otro viaje en 2022 (2026-11-05).
 
 ## Para la próxima vez
 
 - Repasar を (objeto) y ちょうど vs ちょっと. Bloque 1 resuelto (を y ちょうど bien). Reforzar frases completas con verbo en 〜て.
 - Bloque 2: ejercicios 1-4 todos correctos (と, 勉強しなければなりません, 夜に, スーパーに行かなければなりません).
-- Bloque 3: tenis + viaje a Japón. Ejercicios del bloque 3 resueltos (に con 〜前, 週に3回, そして). Pendientes: 〜から〜まで, 年 en fechas (la última respuesta llegó en romaji, posible dictado/teclado: confirmar). Siguiente pregunta: dónde fue en Japón y qué comió.
+- Bloque 3: tenis + viaje a Japón. Ejercicios del bloque 3 resueltos (に con 〜前, 週に3回, そして). Pendientes: 〜から〜まで, 年 en fechas (una respuesta llegó en romaji, posible dictado/teclado; después reescribió en japonés). Siguiente pregunta: dónde fue en Japón y qué comió.
 
 ## Historial de sesiones
 
@@ -81,3 +85,4 @@
 - 2026-11-05 — Bloque 2: planes del día. Bien: formas て, 会社に行く. A reforzar: なければならない, と vs を, に con momentos del día.
 - 2026-11-05 — Ejercicios del bloque 2 resueltos (4/4 bien). Arranca bloque 3: tenis.
 - 2026-11-05 — Bloque 3 (tenis + viaje a Japón): bien 週に2回ぐらい, 5年前に日本に行きました, 週に3回スーパーに行きます. A reforzar: に con 〜前, 年/月 en fechas, 〜から〜まで, 旅行 como verbo.
+- 2026-11-07 — Repaso de ejercicios del bloque 3: `会社で働きます` y `年` en fechas siguen fallando; reforzar con ejercicios en la próxima sesión.
