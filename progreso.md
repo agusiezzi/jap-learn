@@ -41,6 +41,13 @@
 - **Falta 年 en los años** (error repetido): `2018に`, `2022日本へ`; siempre `2022年に`.
 - **Orden de horas**: escribió `5時から9時まで` queriendo decir 9 a 5; en japonés se dice en el orden real: `9時から5時まで`.
 - **Redundancia**: `日本へ、日本旅行をしました`; basta `日本へ旅行に行きました` o `日本旅行をしました`.
+- **年 otra vez** (3.ª vez): `2018の旅行`; siempre `2018年`.
+- **Ortografía**: `友どち` → `友だち`; `友どちといった` → `友だちと行った` (と + 行く).
+- **観光 vs 環境**: en romaji escribió `Kankyo` (環境 = medio ambiente); «hacer turismo» es `観光（かんこう）`.
+- **それも** (2.ª vez) usado como «y además»; usar `それから` / `そして`.
+- **思い出す**: dijo `〜旅行と思い出します`; «recordar» lleva を: `素晴らしい旅行を思い出します`; «creo que fue» es `〜だったと思います`; simple: `本当に素晴らしい旅行でした`.
+- **Cerrar frases enumerando**: `冬の食べ物を食べたラーメンと…` → `冬の食べ物を食べました。ラーメンやセブンイレブンの食べ物です。`
+- **Romaji**: varias respuestas llegaron en romaji (posible dictado por voz o teclado). Regla del proyecto: furigana, no romaji; pedir kana/kanji.
 - Tendencia: `今日の朝` → más natural `今朝（けさ）`.
 
 ## Vocabulario nuevo
@@ -58,6 +65,12 @@
 | 午後 | ごご | tarde (PM) | 2026-11-05 |
 | 特に | とくに | especialmente | 2026-11-05 |
 | 〜ので | 〜ので | porque / ya que | 2026-11-05 |
+| 観光 | かんこう | turismo | 2026-11-14 |
+| 友だち | ともだち | amigo/a | 2026-11-14 |
+| ずっと | ずっと | todo el tiempo, siempre | 2026-11-14 |
+| たとえば | たとえば | por ejemplo | 2026-11-14 |
+| 思い出す | おもいだす | recordar | 2026-11-14 |
+| 素晴らしい | すばらしい | maravilloso | 2026-11-14 |
 | 始める | はじめる | empezar | 2026-11-05 |
 | 〜前 | 〜まえ | hace… / antes de | 2026-11-05 |
 | 週に〜回 | しゅうに〜かい | … veces por semana | 2026-11-05 |
@@ -72,12 +85,13 @@
 - Planes del día: oficina, volver a la tarde, clase de tenis (2026-11-05).
 - Tenis: empezó hace 3 años, juega ~2 veces por semana (2026-11-05).
 - Viaje a Japón: enero–febrero de 2018 y otro viaje en 2022 (2026-11-05).
+- Itinerario 2018: Tokio, Osaka, Kioto, Hokkaido (Sapporo, Hakodate), Morioka, Nikko, Hiroshima, Nagasaki; invierno; ramen y konbini (2026-11-14).
 
 ## Para la próxima vez
 
 - Repasar を (objeto) y ちょうど vs ちょっと. Bloque 1 resuelto (を y ちょうど bien). Reforzar frases completas con verbo en 〜て.
 - Bloque 2: ejercicios 1-4 todos correctos (と, 勉強しなければなりません, 夜に, スーパーに行かなければなりません).
-- Bloque 3: tenis + viaje a Japón. Ejercicios del bloque 3 resueltos (に con 〜前, 週に3回, そして). Pendientes: 〜から〜まで, 年 en fechas (una respuesta llegó en romaji, posible dictado/teclado; después reescribió en japonés). Siguiente pregunta: dónde fue en Japón y qué comió.
+- Bloque 3: tenis + viaje a Japón. Ejercicios del bloque 3 resueltos (に con 〜前, 週に3回, そして). Pendientes: 〜から〜まで, 年 en fechas (una respuesta llegó en romaji, posible dictado/teclado; después reescribió en japonés). Contó el viaje de 2018 (Tokio, Osaka, Kioto, Hokkaido, Hiroshima, Nagasaki; invierno, Japan Rail Pass). Siguiente pregunta: qué ciudad le gustó más y por qué. Pendientes: ejercicios で/に (友達とレストランで会いました) y 2023年にスーパーに行きました.
 
 ## Historial de sesiones
 
@@ -86,3 +100,4 @@
 - 2026-11-05 — Ejercicios del bloque 2 resueltos (4/4 bien). Arranca bloque 3: tenis.
 - 2026-11-05 — Bloque 3 (tenis + viaje a Japón): bien 週に2回ぐらい, 5年前に日本に行きました, 週に3回スーパーに行きます. A reforzar: に con 〜前, 年/月 en fechas, 〜から〜まで, 旅行 como verbo.
 - 2026-11-07 — Repaso de ejercicios del bloque 3: `会社で働きます` y `年` en fechas siguen fallando; reforzar con ejercicios en la próxima sesión.
+- 2026-11-14 — Bloque 3 (viaje de 2018): párrafo largo, ambicioso, parte en romaji. Pendiente de reforzar: 年, 観光, それから en vez de それも, 思い出す.
