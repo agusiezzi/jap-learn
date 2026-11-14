@@ -57,6 +57,7 @@
 - **外 vs 他**: `外の町` (= afuera) → `他（ほか）の町` (otra ciudad).
 - **時間があった**: «pasarla bien» = `いい時間を過ごしました` o `楽しかったです`.
 - **〜と思う**: `鎌倉と思う` → `鎌倉だと思います`. También mezcla estilo plano y です/ます en un mismo texto: elegir uno.
+- **犬があって** (ejercicio): usó `ある` para un animal y `〜てと` para unir; correcto `公園に犬がいて、木があります`.
 - Tendencia: `今日の朝` → más natural `今朝（けさ）`.
 
 ## Vocabulario nuevo
@@ -110,7 +111,7 @@
 
 - Repasar を (objeto) y ちょうど vs ちょっと. Bloque 1 resuelto (を y ちょうど bien). Reforzar frases completas con verbo en 〜て.
 - Bloque 2: ejercicios 1-4 todos correctos (と, 勉強しなければなりません, 夜に, スーパーに行かなければなりません).
-- Bloque 3: tenis + viaje a Japón. Ejercicios del bloque 3 resueltos (に con 〜前, 週に3回, そして). Pendientes: 〜から〜まで, 年 en fechas (una respuesta llegó en romaji, posible dictado/teclado; después reescribió en japonés). Contó el viaje de 2018 (Tokio, Osaka, Kioto, Hokkaido, Hiroshima, Nagasaki; invierno, Japan Rail Pass). Contó por qué Kamakura fue lo mejor (fue solo a ver el Gran Buda y santuarios mientras su amigo iba a Disneylandia). Pendientes (ejercicios): ある/いる, 〜なければなりませんでした (選ぶ), traducir «En 2023 fui solo/a a Kamakura» (2023年に一人で鎌倉に行きました). Siguiente tema: comida o viajes futuros.
+- Bloque 3: tenis + viaje a Japón. Ejercicios del bloque 3 resueltos (に con 〜前, 週に3回, そして). Pendientes: 〜から〜まで, 年 en fechas (una respuesta llegó en romaji, posible dictado/teclado; después reescribió en japonés). Contó el viaje de 2018 (Tokio, Osaka, Kioto, Hokkaido, Hiroshima, Nagasaki; invierno, Japan Rail Pass). Contó por qué Kamakura fue lo mejor (fue solo a ver el Gran Buda y santuarios mientras su amigo iba a Disneylandia). Ejercicios resueltos: 2023年に一人で鎌倉に行った ✅; 勉強しなければならない (falta el pasado: ならなかった/なりませんでした); 犬が*ある* ✗ (犬はいる). Siguiente pregunta: viajes futuros con 〜たい (¿volver a Japón? ¿adónde?). Reforzar: いる/ある, pasado de なければならない.
 
 ## Historial de sesiones
 
@@ -121,3 +122,4 @@
 - 2026-11-07 — Repaso de ejercicios del bloque 3: `会社で働きます` y `年` en fechas siguen fallando; reforzar con ejercicios en la próxima sesión.
 - 2026-11-14 — Bloque 3 (viaje de 2018): párrafo largo, ambicioso, parte en romaji. Pendiente de reforzar: 年, 観光, それから en vez de それも, 思い出す.
 - 2026-11-14 — Bloque 3 (Kamakura): párrafo largo todo en japonés; errores nuevos: ある/いる, 近いな, 外/他, 選べなければ (repetido), に/で destino.
+- 2026-11-14 — Ejercicios Kamakura: 1/3 perfecto (2023年に一人で…), 1 casi (falta el pasado), 1 a repasar (いる/ある con animales).
