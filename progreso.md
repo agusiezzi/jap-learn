@@ -19,6 +19,7 @@
 ## Nivel actual
 
 - Ya usa correctamente と, に (momentos del día) y 〜なければなりません en ejercicios guiados; falta que le salga solo en frases libres.
+- 2026-11-14: escribió un párrafo todo en japonés (sin romaji), con causa y secuencia (それで, そして); aparecen lógica narrativa y vocabulario de viaje. Sigue fallando la gramática de partículas y ある/いる.
 - Maneja bien la forma て para encadenar acciones (働いて、帰って、食べて).
 - Intermedio-bajo (autoevaluado, sin test formal; aprox. N4–N3 bajo).
 - Se ajustará con la práctica.
@@ -48,6 +49,14 @@
 - **思い出す**: dijo `〜旅行と思い出します`; «recordar» lleva を: `素晴らしい旅行を思い出します`; «creo que fue» es `〜だったと思います`; simple: `本当に素晴らしい旅行でした`.
 - **Cerrar frases enumerando**: `冬の食べ物を食べたラーメンと…` → `冬の食べ物を食べました。ラーメンやセブンイレブンの食べ物です。`
 - **Romaji**: varias respuestas llegaron en romaji (posible dictado por voz o teclado). Regla del proyecto: furigana, no romaji; pedir kana/kanji.
+- **選べなければならない** (error repetido, ver 行けなければ): `選べなければなりません`; correcto `選ばなければなりませんでした` (verbo en forma ない → なければ; `選べる` = poder elegir).
+- **に vs で con destino** (repetido): `ディズニーランドで行って` → `ディズニーランドに行って`.
+- **ある vs いる**: `大仏がいた`, `神社がいた` → `ありました` (objetos/lugares = ある; personas/animales = いる).
+- **い-adjetivo + sustantivo**: `近いな町` → `近い町` (sin な).
+- **Negar un deseo/acción**: `行きない` no existe; `行きたくなかった` (no quería ir) o `行かなかった`.
+- **外 vs 他**: `外の町` (= afuera) → `他（ほか）の町` (otra ciudad).
+- **時間があった**: «pasarla bien» = `いい時間を過ごしました` o `楽しかったです`.
+- **〜と思う**: `鎌倉と思う` → `鎌倉だと思います`. También mezcla estilo plano y です/ます en un mismo texto: elegir uno.
 - Tendencia: `今日の朝` → más natural `今朝（けさ）`.
 
 ## Vocabulario nuevo
@@ -65,6 +74,15 @@
 | 午後 | ごご | tarde (PM) | 2026-11-05 |
 | 特に | とくに | especialmente | 2026-11-05 |
 | 〜ので | 〜ので | porque / ya que | 2026-11-05 |
+| 鎌倉 | かまくら | Kamakura | 2026-11-14 |
+| 大仏 | だいぶつ | Gran Buda | 2026-11-14 |
+| 神社 | じんじゃ | santuario sintoísta | 2026-11-14 |
+| 選ぶ | えらぶ | elegir | 2026-11-14 |
+| 一人で | ひとりで | solo/a | 2026-11-14 |
+| 過ごす | すごす | pasar (el tiempo) | 2026-11-14 |
+| ある日 | あるひ | un día (cierto día) | 2026-11-14 |
+| 他 | ほか | otro | 2026-11-14 |
+| 理由 | りゆう | motivo | 2026-11-14 |
 | 観光 | かんこう | turismo | 2026-11-14 |
 | 友だち | ともだち | amigo/a | 2026-11-14 |
 | ずっと | ずっと | todo el tiempo, siempre | 2026-11-14 |
@@ -85,13 +103,14 @@
 - Planes del día: oficina, volver a la tarde, clase de tenis (2026-11-05).
 - Tenis: empezó hace 3 años, juega ~2 veces por semana (2026-11-05).
 - Viaje a Japón: enero–febrero de 2018 y otro viaje en 2022 (2026-11-05).
+- Mejor ciudad: Kamakura (Gran Buda, santuarios), fue solo mientras su amigo iba a Disneylandia (2026-11-14).
 - Itinerario 2018: Tokio, Osaka, Kioto, Hokkaido (Sapporo, Hakodate), Morioka, Nikko, Hiroshima, Nagasaki; invierno; ramen y konbini (2026-11-14).
 
 ## Para la próxima vez
 
 - Repasar を (objeto) y ちょうど vs ちょっと. Bloque 1 resuelto (を y ちょうど bien). Reforzar frases completas con verbo en 〜て.
 - Bloque 2: ejercicios 1-4 todos correctos (と, 勉強しなければなりません, 夜に, スーパーに行かなければなりません).
-- Bloque 3: tenis + viaje a Japón. Ejercicios del bloque 3 resueltos (に con 〜前, 週に3回, そして). Pendientes: 〜から〜まで, 年 en fechas (una respuesta llegó en romaji, posible dictado/teclado; después reescribió en japonés). Contó el viaje de 2018 (Tokio, Osaka, Kioto, Hokkaido, Hiroshima, Nagasaki; invierno, Japan Rail Pass). Siguiente pregunta: qué ciudad le gustó más y por qué. Pendientes: ejercicios で/に (友達とレストランで会いました) y 2023年にスーパーに行きました.
+- Bloque 3: tenis + viaje a Japón. Ejercicios del bloque 3 resueltos (に con 〜前, 週に3回, そして). Pendientes: 〜から〜まで, 年 en fechas (una respuesta llegó en romaji, posible dictado/teclado; después reescribió en japonés). Contó el viaje de 2018 (Tokio, Osaka, Kioto, Hokkaido, Hiroshima, Nagasaki; invierno, Japan Rail Pass). Contó por qué Kamakura fue lo mejor (fue solo a ver el Gran Buda y santuarios mientras su amigo iba a Disneylandia). Pendientes (ejercicios): ある/いる, 〜なければなりませんでした (選ぶ), traducir «En 2023 fui solo/a a Kamakura» (2023年に一人で鎌倉に行きました). Siguiente tema: comida o viajes futuros.
 
 ## Historial de sesiones
 
@@ -101,3 +120,4 @@
 - 2026-11-05 — Bloque 3 (tenis + viaje a Japón): bien 週に2回ぐらい, 5年前に日本に行きました, 週に3回スーパーに行きます. A reforzar: に con 〜前, 年/月 en fechas, 〜から〜まで, 旅行 como verbo.
 - 2026-11-07 — Repaso de ejercicios del bloque 3: `会社で働きます` y `年` en fechas siguen fallando; reforzar con ejercicios en la próxima sesión.
 - 2026-11-14 — Bloque 3 (viaje de 2018): párrafo largo, ambicioso, parte en romaji. Pendiente de reforzar: 年, 観光, それから en vez de それも, 思い出す.
+- 2026-11-14 — Bloque 3 (Kamakura): párrafo largo todo en japonés; errores nuevos: ある/いる, 近いな, 外/他, 選べなければ (repetido), に/で destino.
