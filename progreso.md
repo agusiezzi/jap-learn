@@ -58,6 +58,12 @@
 - **時間があった**: «pasarla bien» = `いい時間を過ごしました` o `楽しかったです`.
 - **〜と思う**: `鎌倉と思う` → `鎌倉だと思います`. También mezcla estilo plano y です/ます en un mismo texto: elegir uno.
 - **犬があって** (ejercicio): usó `ある` para un animal y `〜てと` para unir; correcto `公園に犬がいて、木があります`.
+- **Verbo + sustantivo sin の**: dijo `違うのところ`; correcto `違うところ` (el verbo/adjetivo modifica directo al sustantivo; sin の).
+- **Orden en frases relativas**: dijo `一番ところで行きたいのは熊野`; correcto `一番行きたいところは熊野です`.
+- **Palabras en katakana mal copiadas**: `コード` (code/acorde) por `古道（こどう）`; `熊野古道（くまのこどう）`.
+- **について**: dijo `熊野古道のことを読みました`; para «leer sobre» usar `〜について読みました`.
+- **それも** (3.ª vez, ya recurrente): usado como «y además»; usar `それから` / `そして` / `あと`.
+- **Posición de 本当に**: `鎌倉本当も` → `鎌倉にも本当にまた行きたいです`.
 - Tendencia: `今日の朝` → más natural `今朝（けさ）`.
 
 ## Vocabulario nuevo
@@ -75,6 +81,13 @@
 | 午後 | ごご | tarde (PM) | 2026-11-05 |
 | 特に | とくに | especialmente | 2026-11-05 |
 | 〜ので | 〜ので | porque / ya que | 2026-11-05 |
+| 熊野古道 | くまのこどう | Kumano Kodo (ruta de peregrinación) | 2026-11-15 |
+| 有名 | ゆうめい | famoso | 2026-11-15 |
+| 最近 | さいきん | últimamente | 2026-11-15 |
+| 人気がある | にんきがある | ser popular | 2026-11-15 |
+| 歩く | あるく | caminar | 2026-11-15 |
+| 〜について | 〜について | acerca de, sobre | 2026-11-15 |
+| 違う | ちがう | diferente | 2026-11-15 |
 | 鎌倉 | かまくら | Kamakura | 2026-11-14 |
 | 大仏 | だいぶつ | Gran Buda | 2026-11-14 |
 | 神社 | じんじゃ | santuario sintoísta | 2026-11-14 |
@@ -104,6 +117,7 @@
 - Planes del día: oficina, volver a la tarde, clase de tenis (2026-11-05).
 - Tenis: empezó hace 3 años, juega ~2 veces por semana (2026-11-05).
 - Viaje a Japón: enero–febrero de 2018 y otro viaje en 2022 (2026-11-05).
+- Viaje futuro: quiere volver a Japón, caminar el Kumano Kodo; también Tokio, Kioto y Kamakura (2026-11-15).
 - Mejor ciudad: Kamakura (Gran Buda, santuarios), fue solo mientras su amigo iba a Disneylandia (2026-11-14).
 - Itinerario 2018: Tokio, Osaka, Kioto, Hokkaido (Sapporo, Hakodate), Morioka, Nikko, Hiroshima, Nagasaki; invierno; ramen y konbini (2026-11-14).
 
@@ -111,7 +125,7 @@
 
 - Repasar を (objeto) y ちょうど vs ちょっと. Bloque 1 resuelto (を y ちょうど bien). Reforzar frases completas con verbo en 〜て.
 - Bloque 2: ejercicios 1-4 todos correctos (と, 勉強しなければなりません, 夜に, スーパーに行かなければなりません).
-- Bloque 3: tenis + viaje a Japón. Ejercicios del bloque 3 resueltos (に con 〜前, 週に3回, そして). Pendientes: 〜から〜まで, 年 en fechas (una respuesta llegó en romaji, posible dictado/teclado; después reescribió en japonés). Contó el viaje de 2018 (Tokio, Osaka, Kioto, Hokkaido, Hiroshima, Nagasaki; invierno, Japan Rail Pass). Contó por qué Kamakura fue lo mejor (fue solo a ver el Gran Buda y santuarios mientras su amigo iba a Disneylandia). Ejercicios resueltos: 2023年に一人で鎌倉に行った ✅; 勉強しなければならない (falta el pasado: ならなかった/なりませんでした); 犬が*ある* ✗ (犬はいる). Siguiente pregunta: viajes futuros con 〜たい (¿volver a Japón? ¿adónde?). Reforzar: いる/ある, pasado de なければならない.
+- Bloque 3: tenis + viaje a Japón. Ejercicios del bloque 3 resueltos (に con 〜前, 週に3回, そして). Pendientes: 〜から〜まで, 年 en fechas (una respuesta llegó en romaji, posible dictado/teclado; después reescribió en japonés). Contó el viaje de 2018 (Tokio, Osaka, Kioto, Hokkaido, Hiroshima, Nagasaki; invierno, Japan Rail Pass). Contó por qué Kamakura fue lo mejor (fue solo a ver el Gran Buda y santuarios mientras su amigo iba a Disneylandia). Ejercicios resueltos: 2023年に一人で鎌倉に行った ✅; 勉強しなければならない (falta el pasado: ならなかった/なりませんでした); 犬が*ある* ✗ (犬はいる). Bloque 4 (viajes futuros): quiere volver a Japón, ir a Kumano Kodo, y repetir Tokio, Kioto y Kamakura. Ejercicios pendientes: 〜について, orden de 一番行きたいところは…, それから. Reforzar: いる/ある, pasado de なければならない.
 
 ## Historial de sesiones
 
@@ -123,3 +137,4 @@
 - 2026-11-14 — Bloque 3 (viaje de 2018): párrafo largo, ambicioso, parte en romaji. Pendiente de reforzar: 年, 観光, それから en vez de それも, 思い出す.
 - 2026-11-14 — Bloque 3 (Kamakura): párrafo largo todo en japonés; errores nuevos: ある/いる, 近いな, 外/他, 選べなければ (repetido), に/で destino.
 - 2026-11-14 — Ejercicios Kamakura: 1/3 perfecto (2023年に一人で…), 1 casi (falta el pasado), 1 a repasar (いる/ある con animales).
+- 2026-11-15 — Bloque 4 (viajes futuros): bien 〜たい, 人気がある, 熊野古道と言います, 歩きたい. A reforzar: sin の tras verbo, orden de la frase relativa, について, それも→それから.
